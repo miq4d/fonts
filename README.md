@@ -83,43 +83,43 @@ The ID in parentheses to the right of the font name can be used in the command t
 
 #### Bruno Ace SC (bruno)
 
-![](https://hackmd.io/_uploads/SyBtqVP4n.png)
+![](https://user-images.githubusercontent.com/67305123/236986967-7062c579-d5b8-4355-a91e-54dd90886f57.png)
 
 - [Google Fonts](https://fonts.google.com/specimen/Bruno+Ace+SC)
 
 #### Castoro Titling (castoro)
 
-![](https://hackmd.io/_uploads/Hysq94PN2.png)
+![](https://user-images.githubusercontent.com/67305123/236987002-fd60869e-ecf6-4028-9894-62bfde25c9e9.png)
 
 - [Google Fonts](https://fonts.google.com/specimen/Castoro+Titling)
 
 #### Exo 2 (exo2)
 
-![](https://hackmd.io/_uploads/SyeAcEPEh.png)
+![](https://user-images.githubusercontent.com/67305123/236987040-8415b8d7-57bf-4896-8d90-3143f8369e9f.png)
 
 - [Google Fonts](https://fonts.google.com/specimen/Exo+2)
 
 #### Inconsolata (inconsolata)
 
-![](https://hackmd.io/_uploads/SJLgoEwV3.png)
+![](https://user-images.githubusercontent.com/67305123/236987116-0ab671ac-ef3c-49a8-bdf6-d84a5ac00d76.png)
 
 - [Google Fonts](https://fonts.google.com/specimen/Inconsolata)
 
 #### Poltawski Nowy (poltawski)
 
-![](https://hackmd.io/_uploads/H11Z3NwN2.png)
+![image](https://user-images.githubusercontent.com/67305123/236987172-f75e40f1-9a30-4b18-a361-2a2b6475f7c9.png)
 
 - [Google Fonts](https://fonts.google.com/specimen/Poltawski+Nowy)
 
 #### Dancing Script (script)
 
-![](https://hackmd.io/_uploads/SJozn4vVh.png)
+![](https://user-images.githubusercontent.com/67305123/236987345-8022ff5f-5568-48d6-b073-2f0e268018f4.png)
 
 - [Google Fonts](https://fonts.google.com/specimen/Dancing+Script)
 
 #### Vina Sans (vina)
 
-![](https://hackmd.io/_uploads/Sy6NhND4h.png)
+![](https://user-images.githubusercontent.com/67305123/236987374-b33eb069-1297-4c17-9119-69000ea8966f.png)
 
 - [Google Fonts](https://fonts.google.com/specimen/Vina+Sans)
 
@@ -129,13 +129,13 @@ The ID in parentheses to the right of the font name can be used in the command t
 
 #### Nanum Gothic
 
-![](https://hackmd.io/_uploads/B18c2ND4n.png)
+![](https://user-images.githubusercontent.com/67305123/236987417-3e8b2664-b900-4e3b-83f9-24aaa69ad37d.png)
 
 - [Google Fonts](https://fonts.google.com/specimen/Nanum+Gothic)
 
 #### Noto Sans Simplified Chinese
 
-![](https://hackmd.io/_uploads/S1rfTEwEn.png)
+![](https://user-images.githubusercontent.com/67305123/236987437-787142a0-5f3e-460f-97e6-04cc47af7f36.png)
 
 - Characters that do not exist in Japanese "Kanji" will fallback on this font.
 - [Google Fonts](https://fonts.google.com/noto/specimen/Noto+Sans+SC)
