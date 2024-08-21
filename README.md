@@ -2,4 +2,4 @@
 
 Used fonts for Make it a Quote for Discord.
 
-[Click here to see the font list](https://github.com/miq4d/fonts/wiki/Font-list)
+[Click here to see the font list](https:/wiki.neody.land/wiki/Special:MyLanguage/Make_it_a_Quote/Fonts)
